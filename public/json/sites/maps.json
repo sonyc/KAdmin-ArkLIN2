@@ -22,6 +22,18 @@
     "modid": 0,
     "name": "Ragnarok"
   },
+ 
+  "Aberration_P" : {
+    "mod": 0,
+    "modid": 0,
+    "name": "Aberration"
+  },
+ 
+   "Extinction" : {
+    "mod": 0,
+    "modid": 0,
+    "name": "Extinction"
+  },
 
   "Genesis" : {
     "mod": 0,
@@ -29,10 +41,10 @@
     "name": "Genesis"
   },
 
-  "Extinction" : {
+  "Gen2" : {
     "mod": 0,
     "modid": 0,
-    "name": "Extinction"
+    "name": "Genesis 2"
   },
 
   "Valguero_P" : {
@@ -44,13 +56,13 @@
   "CrystalIsles" : {
     "mod": 0,
     "modid": 0,
-    "name": "ISO: Crystal Isles"
+    "name": "Crystal Isles"
   },
 
-  "Aberration_P" : {
+  "LostIsland" : {
     "mod": 0,
     "modid": 0,
-    "name": "Aberration"
+    "name": "Lost Island"
   },
 
   "TheVolcano" : {
